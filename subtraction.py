@@ -1,4 +1,4 @@
 x = 1
 y = 20
 
-z = y-x
+z = numpy.divide(y,x)
